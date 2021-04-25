@@ -29,7 +29,7 @@ go get github.com/Lebowski1234/ethseller
 This is a command line utility. First, generate key pairs (100 in this example):
 
 ```
-ethseller -newkeys -keyqty=50
+ethseller -newkeys -keyqty=100
 ```
 
 The secret keys are stored in the database. The public keys will be saved to a .txt file in the same directory. 
